@@ -6,6 +6,6 @@ Download the LargestPalindromicNumber.jar file.
 The jar file can be executed by the following ways,
 1. Double clicking on it.
 2. opening terminal and cd to the dowloaded location,
-  ..1. type java -jar largepalin.jar in terminal
+* type java -jar largepalin.jar in terminal window
 
 

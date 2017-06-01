@@ -11,7 +11,8 @@
 Once the .jar file is executed, the app window pops up.
 1. Enter the lower bound value.
 2. Enter the upper bound value.
-3. The largest palindromic number within the given bound values is displayed in the answer field.
+3. Press the search button. 
+4. The largest palindromic number within the given bound values is displayed in the answer field.
 ### Features:
 
 1. If the input values are not valid, it will be highlighted in red.
